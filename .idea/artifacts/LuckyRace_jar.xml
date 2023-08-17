@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="LuckyRace:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/LuckyRace_jar</output-path>
+    <root id="archive" name="LuckyRace.jar">
+      <element id="module-output" name="LuckyRace" />
+      <element id="file-copy" path="$PROJECT_DIR$/src/plugin.yml" />
+    </root>
+  </artifact>
+</component>
